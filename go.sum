@@ -216,8 +216,8 @@ github.com/iotaledger/hive.go/serializer/v2 v2.0.0-rc.1.0.20230629181801-64c530f
 github.com/iotaledger/hive.go/serializer/v2 v2.0.0-rc.1.0.20230629181801-64c530ff9d15/go.mod h1:NrZTRu5hrKwSxzPyA5G8BxaQakOLRvoFJM+5vtHDE04=
 github.com/iotaledger/hive.go/stringify v0.0.0-20230629181801-64c530ff9d15 h1:NmmRkAKLBIOjlT1tEF2NbPvzCawOr1Lgm99k1+ElZKM=
 github.com/iotaledger/hive.go/stringify v0.0.0-20230629181801-64c530ff9d15/go.mod h1:l/F3cA/+67QdNj+sohv2v4HhmsdOcWScoA+sVYoAE4c=
-github.com/iotaledger/hornet/v2 v2.0.0-rc.8 h1:xSFhDXpm1NSW6QOM8ma0luuPuJLL9dzOEWXNPq4QOAA=
-github.com/iotaledger/hornet/v2 v2.0.0-rc.8/go.mod h1:yy8xjJQnVan4A7Qm/869O4KdhnKokAr8a1+j6vhIg14=
+github.com/iotaledger/hornet/v2 v2.0.1 h1:ZVO2wT63h5Sr0GE+zBN0ZnSveLy5ou4qNKseeLCJkoE=
+github.com/iotaledger/hornet/v2 v2.0.1/go.mod h1:7HdD30w3sXWpvlv01ZvQFl494v3wjrukYc9VE0f3EqY=
 github.com/iotaledger/inx-app v1.0.0-rc.3.0.20230808143959-5d2dd5f23266 h1:QEvwIMZe/lp+07Y0cuEh7iyl4w7hzDqvd3CpXeJAjNQ=
 github.com/iotaledger/inx-app v1.0.0-rc.3.0.20230808143959-5d2dd5f23266/go.mod h1:Ia2bmJ2KkoEuvp1CjwCC4xO4N2v+sXcJGcd0R6xO5EM=
 github.com/iotaledger/inx/go v1.0.0-rc.2 h1:SjHGHQ1pEe7/B0bnVIHCa1zQBvcC0QRwcYPzUGarrJU=
@@ -301,8 +301,8 @@ github.com/onsi/ginkgo v1.16.5/go.mod h1:+E8gABHa3K6zRBolWtd+ROzc/U5bkGt0FwiG042
 github.com/onsi/gomega v1.7.1/go.mod h1:XdKZgCCFLUoM/7CFJVPcG8C1xQ1AJ0vpAezJrB7JYyY=
 github.com/onsi/gomega v1.10.1/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1ybHNo=
 github.com/onsi/gomega v1.10.4/go.mod h1:g/HbgYopi++010VEqkFgJHKC09uJiW9UkXvMUuKHUCQ=
-github.com/onsi/gomega v1.27.6 h1:ENqfyGeS5AX/rlXDd/ETokDz93u0YufY1Pgxuy/PvWE=
-github.com/onsi/gomega v1.27.6/go.mod h1:PIQNjfQwkP3aQAH7lf7j87O/5FiNr+ZR8+ipb+qQlhg=
+github.com/onsi/gomega v1.27.10 h1:naR28SdDFlqrG6kScpT8VWpu1xWY5nJRCF3XaYyBjhI=
+github.com/onsi/gomega v1.27.10/go.mod h1:RsS8tutOdbdgzbPtzzATp12yT7kM5I5aElG3evPbQ0M=
 github.com/opentracing/opentracing-go v1.1.0/go.mod h1:UkNAQd3GIcIGf0SeVgPpRdFStlNbqXla1AfSYxPUl2o=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
 github.com/pascaldekloe/goe v0.1.0/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=

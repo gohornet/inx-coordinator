@@ -10,7 +10,7 @@ require (
 	github.com/iotaledger/hive.go/logger v0.0.0-20230629181801-64c530ff9d15
 	github.com/iotaledger/hive.go/runtime v0.0.0-20230629181801-64c530ff9d15
 	github.com/iotaledger/hive.go/serializer/v2 v2.0.0-rc.1.0.20230629181801-64c530ff9d15
-	github.com/iotaledger/hornet/v2 v2.0.0-rc.8
+	github.com/iotaledger/hornet/v2 v2.0.1
 	github.com/iotaledger/inx-app v1.0.0-rc.3.0.20230808143959-5d2dd5f23266
 	github.com/iotaledger/inx/go v1.0.0-rc.2
 	github.com/iotaledger/iota.go v1.0.0
@@ -61,7 +61,7 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/mr-tron/base58 v1.2.0 // indirect
-	github.com/onsi/gomega v1.27.6 // indirect
+	github.com/onsi/gomega v1.27.10 // indirect
 	github.com/pasztorpisti/qs v0.0.0-20171216220353-8d6c33ee906c // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
